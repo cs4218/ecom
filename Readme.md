@@ -97,7 +97,7 @@ To download and use the MERN (MongoDB, Express.js, React.js, Node.js) app from G
    - Download “Sample DB Schema” from Canvas and extract it.
    - In MongoDB Compass, create a database named `test` under your cluster.
    - Add four collections to this database: `categories`, `orders`, `products`, and `users`.
-   - Under each collection, click "ADD DATA" and import the resective JSON from the extracted "Sample DB Schema".
+   - Under each collection, click "ADD DATA" and import the respective JSON from the extracted "Sample DB Schema".
 
 5. **Running the Application**
    - Open your web browser.
